@@ -4,7 +4,7 @@ import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import CustomTypography from '../atoms/Typography';
 import CustomButton from '../atoms/Button';
-import DropdownMenu from '../molecules/DropdownMenu';
+import DropdownMenu from '../moleculas/DropdownMenu';
 import CustomBox from '../atoms/Box';
 
 function Navbar() {
